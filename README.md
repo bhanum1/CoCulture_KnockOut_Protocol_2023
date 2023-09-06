@@ -1,4 +1,4 @@
-# LMSE_Code_2023_Summer
+# CoCulture_KnockOut_Protocol_2023
 
 Code written to help develop a protocol to produce sets of KO's that will force cooperation between two organissms, given their genome scale models as an input.
 
